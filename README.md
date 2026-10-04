@@ -7,3 +7,7 @@ A static, single-page photo retouch tool. Open `index.html` in a browser (or hos
 - Undo, revert, multiple images, JPEG download.
 
 Images are processed locally in the browser and never uploaded. Intended for photos you own or have the rights to edit.
+
+## Examples
+
+![Before and after examples](examples.png)
